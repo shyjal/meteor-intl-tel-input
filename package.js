@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'ctjp:meteor-intl-tel-input',
+  name: 'shyjal:meteor-intl-tel-input',
   summary: 'Meteor package for https://github.com/Bluefieldscom/intl-tel-input',
   version: '3.7.1_2',
-  git: 'https://github.com/ctjp/meteor-intl-tel-input.git'
+  git: 'https://github.com/shyjal/meteor-intl-tel-input.git'
 });
 
 Package.onUse(function(api) {
@@ -26,7 +26,7 @@ Package.onTest(function(api) {
   // Client only
   api.use([
     'tinytest',
-    'ctjp:meteor-intl-tel-input'
+    'shyjal:meteor-intl-tel-input'
   ], 'client');
 
   //== Add files
