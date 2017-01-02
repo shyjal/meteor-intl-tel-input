@@ -7,5 +7,5 @@ Meteor wrapper for https://github.com/Bluefieldscom/intl-tel-input
 In a Meteor app directory, enter:
 
 ```bash
-$ meteor add ctjp:meteor-intl-tel-input
+$ meteor add shyjal:meteor-intl-tel-input
 ```
